@@ -1,0 +1,34 @@
+Criar LANDING PAGE profissional do ZERO + Next JS 🔥
+  https://www.youtube.com/watch?v=5tpX4iTdg5A&t=2351s
+	https://ui.shadcn.com/docs/installation/next
+	https://phosphoricons.com/
+	https://michalsnik.github.io/aos/
+
+
+  npx create-next-app@latest .
+  npx shadcn@latest init                  ferramentas para o NextJS
+	npx shadcn@latest add button            componentes para o NextJS
+	npm i @phosphor-icons/react             icons do React
+	npm install embla-carousel-react --save carousel-react
+	npm install aos --save                  animações
+	npm i --save-dev @types/aos             tipagem Typescript
+
+
+
+
+
+
+Comandos usados no Git e GitHub  ->  https://sujeitoprogramador.com/github-aula7/
+
+  Comandos Git:
+    Criando um repositório    git init
+    Verificando alterações    git status
+    Salvando arquivos         git add .
+    Comitando arquivos        git commit -m "inicial"
+
+  GitHub
+    Define o nome principal   git remote add origin https://github.com/domkalebito/curso-de-react-yt.git
+    Linkar com a nuvem        git branch -M main
+    Envia o projeto           git push -u origin main
+
+
